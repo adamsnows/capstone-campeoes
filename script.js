@@ -20,4 +20,5 @@ import {LoginController} from "./src/controller/Status.controller.js"
 import {EditController} from "./src/controller/Edit.controller.js"
 import {DeleteController} from "./src/controller/Delete.controller.js"
 import {StatusController } from "./src/controller/Status.controller.js"
+import { LogoutController } from "./src/controller/Logout.controller.js"
 
